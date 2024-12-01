@@ -3,11 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/piyushnayak5729" target="blank"><img src="https://img.shields.io/twitter/follow/piyushnayak5729?logo=twitter&style=for-the-badge" alt="piyushnayak5729" /></a> </p>
 
-- 🔭 I’m currently working on **Password Generator**
+-🔭 I’m currently working on a Password Generator project using React.
 
-- 🌱 I’m currently learning **React, Next.js**
+-🌱 I’m currently learning MERN development.
 
-- 📫 Reach me via **piyushnayak5729@gmail.com**
+-👯 I’m looking to collaborate on challenging projects.
+
+-🤔 I’m not seeking assistance at the moment.
+
+-💬 Ask me about web development, C++, Literature, Social Trends, or Gaming.
+
+-📫 How to reach me: piyushnayak5729@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +23,68 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>React</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Python</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>C++</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+    <span><strong>Node Js</strong></span><br><br><br>
+    <img height="64px" src="https://img.icons8.com/color/2x/nodejs.png">
+    </td>
+      <td width="25%" align="center">
+        <span><strong>Tailwind CSS</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>MySql</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>C</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushnayak5729&show_icons=true&locale=en&layout=compact" alt="piyushnayak5729" /></p>
